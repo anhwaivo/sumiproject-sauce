@@ -1,5 +1,5 @@
 # shitty outdated docs below,
-live site at https://sumiproject.net
+[live site](https://api.sumiproject.net/)
 cai nay ton t 100k :)
 
 # SUMIBOT API - DOCS
