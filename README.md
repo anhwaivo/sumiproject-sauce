@@ -1,3 +1,7 @@
+# shitty outdated docs below,
+live site at https://sumiproject.net
+cai nay ton t 100k :)
+
 # SUMIBOT API - DOCS
 
 ### [Live DEMO](https://disme-api.herokuapp.com/)
