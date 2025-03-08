@@ -3,9 +3,9 @@
 
 cai nay ton t 100k :)
 
-t dinh mo lai api neu co nhieu nguoi muon + feature request trong issue
+t dinh mo lai api neu co nhieu nguoi muon + feature request trong issue ( soon:tm: )
 
-lazy to upload fixed things
+lazy to upload updated things
 
 # SUMIBOT API - DOCS
 
