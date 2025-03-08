@@ -1,6 +1,13 @@
-# SUMIBOT API - DOCS
+# shitty outdated docs below
+[live site](https://api.sumiproject.net/)
 
-### [Live DEMO](https://disme-api.herokuapp.com/)
+cai nay ton t 100k :)
+
+t dinh mo lai api neu co nhieu nguoi muon + feature request trong issue ( soon:tm: )
+
+lazy to upload updated things
+
+# SUMIBOT API - DOCS
 
 ### 1. API KEY
 Code
@@ -431,6 +438,7 @@ Error
     "error": true
 }
 ```
-## Support
+## Cre
 
-- Facebook(https://www.facebook.com/PhamVanDien.User/)
+- me
+- https://www.facebook.com/PhamVanDien.User
