@@ -3,11 +3,11 @@
 
 cai nay ton t 100k :)
 
+t dinh mo lai api neu co nhieu nguoi muon + feature request trong issue
+
 lazy to upload fixed things
 
 # SUMIBOT API - DOCS
-
-### [Live DEMO](https://disme-api.herokuapp.com/)
 
 ### 1. API KEY
 Code
@@ -438,6 +438,7 @@ Error
     "error": true
 }
 ```
-## Support
+## Cre
 
-- Facebook(https://www.facebook.com/PhamVanDien.User/)
+- me
+- https://www.facebook.com/PhamVanDien.User
